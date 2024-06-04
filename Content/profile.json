@@ -28,7 +28,7 @@
 },
 "Project1": {
     "Title": "PlannerBird - System Specification",
-    "Desc": "This is an assignment that I completed for CSC3150 Systems Design.<br>This project goes over the software product's design requirements for developers.<br>It has a GitHub repo which is linked below.",
+    "Desc": "This is an assignment that I completed for CSC3150 Systems Design.<br>This project goes over the software product's design requirements for developers.<br>PlannerBird is a mobile application that helps users organize trip plans.<br>The application also has a built in search suggestion functionality that recommends destinations based on user preferences.<br>It has a GitHub repo which is linked below.",
     "GitHubRepo": "https://github.com/kamile-v/System-Specification.git",
     "MainImage": "P1-photo.png",
     "DetailImages": ["P1-photo.png"]
