@@ -30,8 +30,8 @@
     "Title": "PlannerBird - System Specification",
     "Desc": "This is an assignment that I completed for CSC3150 Systems Design.<br>This project goes over the software product's design requirements for developers.<br>It has a GitHub repo which is linked below.",
     "GitHubRepo": "https://github.com/kamile-v/System-Specification.git",
-    "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png"]
+    "MainImage": "P1-photo.png",
+    "DetailImages": ["P1-photo.png"]
   },
   "Project2": {
     "Title": "",
