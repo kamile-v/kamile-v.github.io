@@ -27,8 +27,8 @@
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "Title": "PlannerBird - System Specification",
+    "Desc": "This is an assignment that I completed for CSC3150 Systems Design.<br>This project goes over the software product's design requirements for developers.<br>It has a GitHub repo which is linked below.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
