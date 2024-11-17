@@ -41,9 +41,9 @@
     "DetailImages": []
   },
   "Project3": {
-    "Title": "",
-    "Desc": "",
-    "GitHubRepo": "",
+    "Title": "CapSource",
+    "Desc": "I am currently working on my senior project with 5 other students to create a crowdsourced caption corretion web extension for Panopto video. In this project, I am becoming more familiar with AWS, JavaScript, and React.",
+    "GitHubRepo": "https://github.com/SPU-CapSource",
     "MainImage": "",
     "DetailImages": []
   },
