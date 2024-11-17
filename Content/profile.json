@@ -34,9 +34,9 @@
     "DetailImages": ["P1-photo.png"]
   },
   "Project2": {
-    "Title": "",
-    "Desc": "",
-    "GitHubRepo": "",
+    "Title": "Lexical and Syntax Analyzer in Go",
+    "Desc": "This was an individual assignment for Concepts in Programming, where I created a lexical and syntax analyzer in Go. In this project, I learned to tokenize a programming language, parse it to make sure the syntax is correct, and output it in Scheme and Prolog.",
+    "GitHubRepo": "https://github.com/csc3310-fall2024/go-parser-kamile-v",
     "MainImage": "",
     "DetailImages": []
   },
