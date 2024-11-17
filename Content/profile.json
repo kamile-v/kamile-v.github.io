@@ -22,7 +22,7 @@
   "Employment": "Seattle Pacific University",
   "Role": "",
   "EmploymentText": "",
-  "Skills": ["C++", " JavaScript", " CSS"," HTML"],
+  "Skills": ["C++", " JavaScript", " CSS"," HTML", "Go", "Prolog"],
   "SkillsText": "",
   "Resume": "student-resume.pdf"  
 },
