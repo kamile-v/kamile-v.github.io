@@ -50,8 +50,8 @@
   "Project4": {
     "Title": "C++ Certified Associate Programmer",
     "Desc": "Currently, I am working on getting my certification for C++. I am excited to get the certification and prove my expertise in C++ programming!",
-    "GitHubRepo": "Cpp.png",
-    "MainImage": "",
+    "GitHubRepo": "",
+    "MainImage": "Cpp.png",
     "DetailImages": []
   }
 }
