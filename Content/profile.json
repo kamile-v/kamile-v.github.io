@@ -42,7 +42,7 @@
   },
   "Project3": {
     "Title": "CapSource",
-    "Desc": "CapSource is a crowdsourced caption correction extension for Panopto captions. This project is a team project for the Senior Capstone course sequence for my Bachelor's degree.<br>My role in the project was to work on the frontend development of the web app, where the user is able to log in and update corrections for their video by approving or rejecting submissions from video viewers.<br>While working on this project, I learned: AWS, JavaScript, TypeScript, and React. I was new to these and was excited to learn these ommonly used tools and languages.<br>Because this is a team project, I learned to communicate effectively with my team and encouraged teamwork by checking in with my teammates fequently regarding their progress.<br>One problem that we are still navigating with this project is that we are unable to modify the captions directly through our extension.<br>My idea for improving this problem would be to not modify the captions directly, but encourage viewers to install the extension so that only users that have the extension installed have the corrected version of the captions for videos.<br>There is no need to directly modify and save corrected captions within Panopto, or whichever viewing platform is being used. Instead, it's only necessary for the extension to display its own corrected script as the caption for the video.",
+    "Desc": "",
     "GitHubRepo": "https://github.com/SPU-CapSource",
     "MainImage": "CapSource Logo 2.png",
     "DetailImages": []
